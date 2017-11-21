@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Tour Albany</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="restaurant_category">Food</string>
+    <string name="bars_category">Bars</string>
+    <string name="family_category">Family</string>
+    <string name="adult_category">Adult</string>
+
+    <!--Names of restaurants-->
+    <string name="black_n_blue">Black and Blue</string>
+    <string name="athos">Athos</string>
+    <string name="cardona">Cardona\'s Market</string>
+    <string name="tanpopo">Tanpopo Ramen and Sake Bar</string>
+
+    <!--Contact of restaurants-->
+    <string name="black_n_blue_contact">(518) 313-7388</string>
+    <string name="athos_contact">(518) 608-6400</string>
+    <string name="cardona_contact">(518) 434-4838</string>
+    <string name="tanpopo_contact">(518) 451-9868</string>
+
+    <!--Description of restaurants-->
+    <string name="black_n_blue_desc">Upscale Steak Restaurant</string>
+    <string name="athos_desc">Authentic Greek fare in an upscale setting with Friday music.</string>
+    <string name="cardona_desc">Italian Grocery Store</string>
+    <string name="tanpopo_desc">Ramen Restaurant</string>
+
+    <!--Names of bars-->
+    <string name="druthers">Druthers Brewing Company</string>
+    <string name="speakeasy">Speakeasy 518</string>
+    <string name="citybh">The City Beer Hall</string>
+    <string name="hollow">The Hollow Bar and Kitchen</string>
+
+    <!--Contact of bars-->
+    <string name="druthers_contact">(518) 650-7996</string>
+    <string name="speakeasy_contact">(518) 449-2332</string>
+    <string name="citybh_contact">(518) 449-2337</string>
+    <string name="hollow_contact">(518) 426-8550</string>
+
+    <!--Description of bars-->
+    <string name="druthers_desc">Hip Brewpub with fast service</string>
+    <string name="speakeasy_desc">Cozy and sophisticated with jazz music.</string>
+    <string name="citybh_desc">Festive beer garden and gastropub with a mechanical bull.</string>
+    <string name="hollow_desc">Hip spot in a historic building with craft beers.</string>
+
+    <!--Names of family attractions-->
+    <string name="zero">Zero Gravity</string>
+    <string name="ge">The Great Escape</string>
+    <string name="aiha">Albany Institute of History and Art</string>
+    <string name="funplex">Funplex Funpark</string>
+
+    <!--Contact of family attractions-->
+    <string name="zero_contact">(518) 437-9334</string>
+    <string name="ge_contact">(518) 380-6995</string>
+    <string name="aiha_contact">(518) 463-4478</string>
+    <string name="funplex_contact">(518) 477-2651</string>
+
+    <!--Description of family attractions-->
+    <string name="zero_desc">Neon-lit laser-tag arena sprawled out over multiple levels and a huge arcade.</string>
+    <string name="ge_desc">Amusement Center</string>
+    <string name="aiha_desc">The Albany Institute of History and Art is a museum in Albany, New York</string>
+    <string name="funplex_desc">Climb rock walls, play mini-golf, ride go-karts and bounce on trampolines.</string>
+
+    <!--Names of adult attractions-->
+    <string name="lucky">Lucky Strike Social Albany</string>
+    <string name="palace">Palace Theatre</string>
+    <string name="egg">The Egg</string>
+    <string name="slater">USS Slater</string>
+
+    <!--Contact of adult attractions-->
+    <string name="lucky_contact">(518) 556-3350</string>
+    <string name="palace_contact">(518) 465-3334</string>
+    <string name="egg_contact">(518) 473-1845</string>
+    <string name="slater_contact">(518) 431-1943</string>
+
+    <!--Description of adult attractions-->
+    <string name="lucky_desc">Large entertainment center with bowling, a game room and an American gastropub.</string>
+    <string name="palace_desc">The Palace Theatre is an entertainment venue in downtown Albany, NY.</string>
+    <string name="egg_desc">The Egg is a performing arts venue in Albany, NY. Named for its shape.</string>
+    <string name="slater_desc">USS Slater is a Cannon-class destroyer escort that served in the United States Navy.</string>
+
+    <!--Locations-->
+    <string name="slater_loc" formatted="false">42.689319</string>
+</resources>

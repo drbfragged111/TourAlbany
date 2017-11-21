@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#98999B</color>
+    <color name="colorPrimaryDark">#898A8C</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="main">#BABABA</color>
+    <color name="restaurants">#B71919</color>
+    <color name="bars">#B74D14</color>
+    <color name="family">#14A9B7</color>
+    <color name="adult">#141CB7</color>
+</resources>
